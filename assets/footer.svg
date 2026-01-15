@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Footer banner">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7928CA"/>
+      <stop offset="55%" stop-color="#FF0080"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg { fill: #0D1117; }
+      .line { stroke: url(#neon); stroke-width: 3; opacity: 0.9; }
+      .dot { fill: rgba(0,217,255,0.9); }
+      .dot2 { fill: rgba(255,0,128,0.9); }
+      @keyframes twinkle { 0%,100%{opacity:0.15} 50%{opacity:1} }
+      .t1 { animation: twinkle 2.8s ease-in-out infinite; }
+      .t2 { animation: twinkle 3.6s ease-in-out infinite; }
+      .t3 { animation: twinkle 4.4s ease-in-out infinite; }
+      @keyframes wave { 0%{transform:translateX(0)} 100%{transform:translateX(-120px)} }
+      .w { animation: wave 8s linear infinite; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="140" rx="22"/>
+  <rect x="10" y="10" width="1180" height="120" rx="18" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+
+  <!-- top neon line -->
+  <path class="line" d="M40 34 H1160" filter="url(#glow)"/>
+
+  <!-- animated wave -->
+  <g class="w" opacity="0.9">
+    <path d="M0,112 C120,86 240,136 360,112 C480,88 600,136 720,112 C840,88 960,136 1080,112 C1200,88 1320,136 1440,112"
+          fill="none" stroke="url(#neon)" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- twinkles -->
+  <circle class="dot t1" cx="86" cy="56" r="3"/>
+  <circle class="dot t2" cx="170" cy="78" r="2.6"/>
+  <circle class="dot2 t3" cx="260" cy="58" r="3.2"/>
+  <circle class="dot2 t2" cx="1020" cy="62" r="3"/>
+  <circle class="dot t3" cx="1110" cy="86" r="2.4"/>
+  <circle class="dot2 t1" cx="1148" cy="54" r="2.8"/>
+</svg>
