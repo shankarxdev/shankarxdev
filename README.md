@@ -17,7 +17,7 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
   <img src="https://img.shields.io/github/stars/shankarxdev?label=Stars&style=flat-square&color=00D9FF&labelColor=0D1117" alt="Stars" />
 </div>
 
----
+<br/>
 
 ## <img src="https://api.iconify.design/mdi:briefcase.svg?color=%23F59E0B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> CURRENT WORK
 
@@ -25,14 +25,14 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 - <img src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Enterprise microservices & integrations (Spring Boot, secure auth, service-to-service communication)
 - <img src="https://api.iconify.design/mdi:cloud-sync-outline.svg?color=%23F59E0B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> CI/CD & deployments on Azure (AKS, Docker, GitHub Actions/Jenkins)
 
----
+<br/>
 
 ## <img src="https://api.iconify.design/mdi:sprout.svg?color=%2300D9FF" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> LEARNING & EXPLORING
 
 - <img src="https://api.iconify.design/mdi:access-point-network.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> **WebSockets** – real-time updates & live data streaming  
 - <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> **Advanced Azure cloud architecture**
 
----
+<br/>
 
 ## <img src="https://api.iconify.design/mdi:laptop.svg?color=%23FF6B6B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> TECH
 
@@ -82,20 +82,20 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 </div>
 <br/>
 
----
+<br/>
 
 ## <img src="https://api.iconify.design/mdi:github.svg?color=%23C9D1D9" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> GITHUB
 
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shankarxdev&theme=github_dark" alt="GitHub stats" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=shankarxdev&theme=github-dark-blue&background=0D1117&stroke=0D1117" alt="GitHub streak stats" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=shankarxdev&theme=github-dark-blue&background=0D1117&border=30363D&stroke=0D1117&border_radius=6" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shankarxdev/shankarxdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
----
+<br/>
 
 ## <img src="https://api.iconify.design/mdi:handshake-outline.svg?color=%23F59E0B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> CONNECT
 
