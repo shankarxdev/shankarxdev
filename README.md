@@ -1,3 +1,4 @@
+<div style="font-family: 'Dunk Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B6B,100:F59E0B&text=Hi,%20I'm%20Shankar%20Chakraborty%20👋&reversal=false&textBg=false&fontSize=40&animation=twinkling&rotate=0&desc=Technical%20Lead%20|%20Full-Stack%20Developer%20|%20Microservices%20and%20Cloud%20Engineer&descSize=15&fontAlignY=41&descAlignY=55&fontAlign=52&descAlign=49&fontColor=ffffff" width="100%" alt="Header" />
 </div>
@@ -18,7 +19,7 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 ---
 
-## 💼 Current Work
+## <img src="https://api.iconify.design/mdi:briefcase.svg?color=%23F59E0B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> CURRENT WORK
 
 - <img src="https://api.iconify.design/mdi:bank.svg?color=%23FF6B6B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Full-Stack Developer on the **Rogers Bank Co. Project**, contributing to secure, scalable banking features
 - <img src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Enterprise microservices & integrations (Spring Boot, secure auth, service-to-service communication)
@@ -26,14 +27,14 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 ---
 
-## 🌱 Learning & Exploring
+## <img src="https://api.iconify.design/mdi:sprout.svg?color=%2300D9FF" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> LEARNING & EXPLORING
 
 - <img src="https://api.iconify.design/mdi:access-point-network.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> **WebSockets** – real-time updates & live data streaming  
 - <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> **Advanced Azure cloud architecture**
 
 ---
 
-## Tech
+## <img src="https://api.iconify.design/mdi:laptop.svg?color=%23FF6B6B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> TECH
 
 - **🧩 Backend**
 
@@ -83,11 +84,11 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 ---
 
-## GitHub
+## <img src="https://api.iconify.design/mdi:github.svg?color=%23C9D1D9" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> GITHUB
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shankarxdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarxdev&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="Top languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shankarxdev&theme=github_dark" alt="GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=shankarxdev&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
@@ -96,7 +97,7 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 ---
 
-## Connect
+## <img src="https://api.iconify.design/mdi:handshake-outline.svg?color=%23F59E0B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> CONNECT
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shankar-chakraborty/">
@@ -117,4 +118,5 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF6B6B,100:F59E0B&text=“Automate%20what%20you%20dislike.%20Improve%20what%20you%20love.”&reversal=false&textBg=false&fontSize=20&animation=twinkling&rotate=0&desc=Thanks%20for%20stopping%20by%20👋&descSize=15&fontAlignY=67&descAlignY=85&fontAlign=50&descAlign=50&section=footer&fontColor=ffffff" width="100%" alt="Footer" />
+</div>
 </div>
