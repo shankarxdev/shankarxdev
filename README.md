@@ -14,8 +14,12 @@
   <img src="https://img.shields.io/github/followers/shankarxdev?label=Followers&style=flat-square&color=F59E0B&labelColor=0D1117" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/shankarxdev?label=Stars&style=flat-square&color=00D9FF&labelColor=0D1117" alt="Stars" />
-</div>
 
+  <br/>
+  <!--START_SECTION:daily_weather-->
+  <sub>🌤️ Loading daily weather…</sub>
+  <!--END_SECTION:daily_weather-->
+</div>
 
 <!-- ABOUT ME -->
 ## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%23C9D1D9" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> ABOUT ME

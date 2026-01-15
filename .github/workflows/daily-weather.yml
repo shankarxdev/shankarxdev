@@ -1,0 +1,42 @@
+name: Daily Weather Update
+
+on:
+  schedule:
+    # Daily at 13:00 UTC
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-weather
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate daily weather file
+        env:
+          WEATHER_CITY: Toronto, Canada
+          WEATHER_LAT: "43.7105"
+          WEATHER_LON: "-79.7266"
+        run: npm run daily:weather
+
+      - name: Commit and push (daily)
+        run: |
+          git config user.name "Shankar Chakraborty"
+          # Counts toward your contribution graph (noreply email format tied to your account)
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: daily weather update"
+          git push
