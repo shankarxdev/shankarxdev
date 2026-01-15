@@ -3,19 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B6B,100:F59E0B&text=Hi,%20I'm%20Shankar%20Chakraborty%20👋&reversal=false&textBg=false&fontSize=40&animation=twinkling&rotate=0&desc=Technical%20Lead%20|%20Full-Stack%20Developer%20|%20Microservices%20and%20Cloud%20Engineer&descSize=15&fontAlignY=41&descAlignY=55&fontAlign=52&descAlign=49&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
-<br/>
 
-
-I'm a results-driven Full-Stack & Backend Engineer with 5+ years of experience building large-scale enterprise applications, modernizing legacy systems, and designing secure microservices for telecom and banking industries.  
-Currently based in **Toronto, Canada**, working onsite on high-impact projects involving Spring Boot, React/Angular, Azure Cloud, and integration-heavy systems.
-
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=shankarxdev&style=flat-square&color=FF6B6B" alt="Profile views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/shankarxdev?label=Followers&style=flat-square&color=F59E0B&labelColor=0D1117" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/shankarxdev?label=Stars&style=flat-square&color=00D9FF&labelColor=0D1117" alt="Stars" />
 </div>
+
+
+## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%23C9D1D9" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> ABOUT ME
+
+- <img src="https://api.iconify.design/mdi:briefcase-outline.svg?color=%23FF6B6B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Results-driven **Full-Stack & Backend Engineer** with **5+ years** building enterprise applications & modernizing legacy systems
+- <img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%23F59E0B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Focused on **secure microservices**, integrations, and cloud-first delivery
+- <img src="https://api.iconify.design/mdi:map-marker-radius-outline.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Based in **Toronto, Canada** (onsite), working with **Spring Boot**, **React/Angular**, and **Azure**
+
 
 <br/>
 
