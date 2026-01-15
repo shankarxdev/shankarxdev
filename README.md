@@ -17,8 +17,8 @@
 
   <br/>
   <!--START_SECTION:daily_weather-->
-  <sub>🌤️ Loading daily weather…</sub>
-  <!--END_SECTION:daily_weather-->
+  <sub>🌤️ <strong>Toronto, Canada</strong> — -15.5°C · wind 9.8 km/h · updated 2026-01-15 23:06:12.291 UTC</sub>
+<!--END_SECTION:daily_weather-->
 </div>
 
 <!-- ABOUT ME -->
