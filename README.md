@@ -1,11 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=190&section=header&text=Shankar%20Chakraborty&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Technical%20Lead%20%40%20TCS%20%7C%20Full-Stack%20%7C%20Azure%20%26%20Microservices&descAlignY=58"/>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coding.gif" width="420" alt="Coding animation"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=720&lines=Hey%2C+I%E2%80%99m+Shankar+%F0%9F%91%8B;Technical+Lead+%40+TCS;Spring+Boot+%E2%9A%A1+Azure+AKS+%E2%9A%A1+Full-Stack" alt="Typing SVG" />
+  <img src="./assets/header.svg" width="100%" alt="Shankar Chakraborty header" />
 </div>
 
 <div align="center">
@@ -14,15 +8,31 @@
   <img src="https://img.shields.io/github/stars/shankarxdev?style=for-the-badge&color=00D9FF&label=STARS" alt="Stars" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7928CA,100:FF0080&height=3&section=header"/>
+---
 
 ### 🚀 About Me
 
-- **Currently**: Building and shipping enterprise full-stack features (Spring Boot + Angular/React) and supporting releases end-to-end
-- **Working at**: Tata Consultancy Services (TCS) — client: Rogers Communications
-- **Role**: Technical Lead
-- **Living in**: Brampton (Toronto), Canada 🇨🇦
-- **Onsite since**: Oct 2024
+<table>
+  <tr>
+    <td valign="top" width="62%">
+      <p>
+        <b>Currently:</b> Building and shipping enterprise full-stack features (Spring Boot + Angular/React) and supporting releases end-to-end<br/>
+        <b>Working at:</b> Tata Consultancy Services (TCS) — client: Rogers Communications<br/>
+        <b>Role:</b> Technical Lead<br/>
+        <b>Living in:</b> Brampton (Toronto), Canada 🇨🇦<br/>
+        <b>Onsite since:</b> Oct 2024
+      </p>
+      <p>
+        <b>Focus:</b> scalable microservices, secure integrations, CI/CD, and production support.
+      </p>
+    </td>
+    <td valign="top" width="38%" align="center">
+      <img src="./assets/coding.svg" width="300" alt="Boy coding illustration" />
+      <br/>
+      <sub>Building. Shipping. Repeating.</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🧩 Tech Stack
 
