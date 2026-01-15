@@ -40,62 +40,62 @@
 ## <img src="https://api.iconify.design/mdi:laptop.svg?color=%23FF6B6B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> TECH
 
 <div align="center">
-<table style="border-collapse: collapse; border: none; margin: 0 auto;">
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" style="border-collapse: collapse; border: 0; outline: 0; box-shadow: none; margin: 0 auto;">
   <tr>
-    <td style="border: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
       <strong><img src="https://api.iconify.design/mdi:server-outline.svg?color=%23FF6B6B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Backend</strong>
     </td>
-    <td style="border: none; padding: 6px 0; vertical-align: top;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 0; vertical-align: top;">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,c&theme=dark" height="32" alt="" />
       </div>
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
       <strong><img src="https://api.iconify.design/mdi:palette-outline.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Frontend</strong>
     </td>
-    <td style="border: none; padding: 6px 0; vertical-align: top;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 0; vertical-align: top;">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=react,angular,ts,redux,tailwind&theme=dark" height="32" alt="" />
       </div>
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
       <strong><img src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23F59E0B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Cloud &amp; DevOps</strong>
     </td>
-    <td style="border: none; padding: 6px 0; vertical-align: top;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 0; vertical-align: top;">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,jenkins,githubactions,firebase&theme=dark" height="32" alt="" />
       </div>
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
       <strong><img src="https://api.iconify.design/mdi:database-outline.svg?color=%23C9D1D9" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Databases</strong>
     </td>
-    <td style="border: none; padding: 6px 0; vertical-align: top;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 0; vertical-align: top;">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,redis&theme=dark" height="32" alt="" />
       </div>
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
       <strong><img src="https://api.iconify.design/mdi:tools.svg?color=%2300D9FF" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> Tools</strong>
     </td>
-    <td style="border: none; padding: 6px 0; vertical-align: top;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 0; vertical-align: top;">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=git,linux,postman,figma&theme=dark" height="32" alt="" />
       </div>
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 16px 6px 0; vertical-align: top; white-space: nowrap;">
       <strong><img src="https://api.iconify.design/mdi:monitor-edit.svg?color=%23F59E0B" width="18" height="18" style="vertical-align: -3px; margin-right: 6px;" alt="" /> IDEs</strong>
     </td>
-    <td style="border: none; padding: 6px 0; vertical-align: top;">
+    <td style="border: 0; outline: 0; box-shadow: none; padding: 6px 0; vertical-align: top;">
       <div align="left">
         <img src="https://api.iconify.design/logos:intellij-idea.svg" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" alt="" />
         <img src="https://api.iconify.design/logos:datagrip.svg" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" alt="" />
@@ -107,8 +107,6 @@
   </tr>
 </table>
 </div>
-
-<br/>
 
 <br/>
 
