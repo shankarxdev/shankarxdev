@@ -28,10 +28,49 @@ const temp = cur.temperature_2m;
 const wind = cur.wind_speed_10m;
 
 // Always changes -> ensures a daily commit when scheduled.
-const now = new Date().toISOString().replace("T", " ").replace("Z", " UTC");
+const now = new Date();
+
+const fmtNumber = (n, { decimals = 0 } = {}) => {
+  if (typeof n !== "number" || Number.isNaN(n)) return "—";
+  return n.toFixed(decimals);
+};
+
+const fmtUpdatedToronto = (d) => {
+  try {
+    // Example: "Jan 15, 6:06 PM ET"
+    const parts = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "America/Toronto",
+      month: "short",
+      day: "2-digit",
+      hour: "numeric",
+      minute: "2-digit",
+      hour12: true,
+      timeZoneName: "short",
+    }).formatToParts(d);
+
+    const get = (type) => parts.find((p) => p.type === type)?.value ?? "";
+    const month = get("month");
+    const day = get("day");
+    const hour = get("hour");
+    const minute = get("minute");
+    const dayPeriod = get("dayPeriod");
+    const tz = get("timeZoneName");
+
+    const time = `${hour}:${minute} ${dayPeriod}`.trim();
+    return `${month} ${day}, ${time} ${tz}`.trim();
+  } catch {
+    return d.toISOString();
+  }
+};
+
+const tempText =
+  typeof temp === "number" && !Number.isNaN(temp) ? `${fmtNumber(temp, { decimals: 1 })}°C` : "—";
+const windText =
+  typeof wind === "number" && !Number.isNaN(wind) ? `${fmtNumber(wind, { decimals: 0 })} km/h` : "—";
+const updatedText = fmtUpdatedToronto(now);
 
 const readmeSection =
-  `<sub>🌤️ <strong>${city}</strong> — ${temp}°C · wind ${wind} km/h · updated ${now}</sub>`;
+  `<sub>🌤️ <strong>${city}</strong> · ${tempText} · Wind ${windText} · Updated ${updatedText}</sub>`;
 
 // Update README section (if markers exist)
 const start = "<!--START_SECTION:daily_weather-->";
