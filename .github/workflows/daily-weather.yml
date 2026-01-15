@@ -5,6 +5,9 @@ on:
     # Daily at 13:00 UTC
     - cron: "0 13 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
