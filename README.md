@@ -125,7 +125,7 @@
 
 ## <img src="https://api.iconify.design/mdi:handshake-outline.svg?color=%23F59E0B" width="22" height="22" style="vertical-align: -4px; margin-right: 8px;" alt="" /> CONNECT
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shankar-chakraborty/">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0D1117&style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
