@@ -88,7 +88,7 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shankarxdev&theme=github_dark" alt="GitHub stats" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=shankarxdev&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=shankarxdev&theme=github-dark-blue" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
