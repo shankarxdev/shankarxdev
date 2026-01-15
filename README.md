@@ -86,12 +86,12 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 ## GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shankarxdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=86400" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shankarxdev&layout=compact&langs_count=6&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=C9D1D9&cache_seconds=86400" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shankarxdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarxdev&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shankarxdev/shankarxdev/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/shankarxdev/shankarxdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -100,7 +100,7 @@ Currently based in **Toronto, Canada**, working onsite on high-impact projects i
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shankar-chakraborty/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0D1117&style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="mailto:shankarxdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0080" alt="Email" />
