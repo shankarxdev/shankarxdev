@@ -17,7 +17,7 @@
 
   <br/>
   <!--START_SECTION:daily_weather-->
-  <sub>🌤️ <strong>Toronto, Canada</strong> · -16.0°C · Wind 9 km/h · Updated Jan 15, 6:22 p.m. EST</sub>
+  <sub>🌤️ <strong>Toronto, Canada</strong> · -11.5°C · Wind 10 km/h · Updated Jan 16, 8:31 a.m. EST</sub>
 <!--END_SECTION:daily_weather-->
 </div>
 
