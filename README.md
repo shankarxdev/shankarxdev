@@ -17,7 +17,7 @@
 
   <br/>
   <!--START_SECTION:daily_weather-->
-  <sub>🌤️ <strong>Toronto, Canada</strong> · 8.6°C · Wind 6 km/h · Updated Mar 26, 10:19 a.m. EDT</sub>
+  <sub>🌤️ <strong>Toronto, Canada</strong> · -7.0°C · Wind 21 km/h · Updated Mar 27, 10:03 a.m. EDT</sub>
 <!--END_SECTION:daily_weather-->
 </div>
 
