@@ -17,7 +17,7 @@
 
   <br/>
   <!--START_SECTION:daily_weather-->
-  <sub>🌤️ <strong>Toronto, Canada</strong> · 8.0°C · Wind 23 km/h · Updated May 14, 11:12 a.m. EDT</sub>
+  <sub>🌤️ <strong>Toronto, Canada</strong> · 17.3°C · Wind 8 km/h · Updated May 15, 11:08 a.m. EDT</sub>
 <!--END_SECTION:daily_weather-->
 </div>
 
