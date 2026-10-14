@@ -17,7 +17,7 @@
 
   <br/>
   <!--START_SECTION:daily_weather-->
-  <sub>🌤️ <strong>Toronto, Canada</strong> · 26.2°C · Wind 21 km/h · Updated Oct 13, 3:37 p.m. EDT</sub>
+  <sub>🌤️ <strong>Toronto, Canada</strong> · 14.9°C · Wind 19 km/h · Updated Oct 14, 1:40 p.m. EDT</sub>
 <!--END_SECTION:daily_weather-->
 </div>
 
